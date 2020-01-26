@@ -1,4 +1,5 @@
-#Terrorist group prediction in Middle East and North Africa
+Terrorist group prediction in Middle East and North Africa
+-----------------------------------------------------------
 From the start of the 21st century terrorism has been an influencing factor on the
 economy, tourism and general life aspects of citizens in Middle Eastern and
 North African Countries (MENA).
